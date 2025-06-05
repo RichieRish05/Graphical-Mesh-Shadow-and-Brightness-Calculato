@@ -1,1 +1,1 @@
-# Graphical-Mesh-Shadow-and-Brightness-Calculato
+# Graphical-Mesh-Shadow-and-Brightness-Calculator
